@@ -1,0 +1,10 @@
+Trollcam.py
+
+A fake MJPEG camera stream. Loads the "cam.jpg" file and attempts to make it "webcammy".
+
+Serves this on its own http server on port 9000.
+Implements a basic day/night cycle and fake auto-gain spazzes
+
+
+
+TROLLOLOLOLOLOL!!
